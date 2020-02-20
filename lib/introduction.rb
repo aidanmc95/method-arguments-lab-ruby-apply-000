@@ -2,7 +2,7 @@
 
 ## This method takes in name:string and out puts a sentence
 def introduction(name)
-  puts "Hi, my name is #{name}.\n"
+  print "Hi, my name is #{name}.\n"
 end
 
 ## This mothd takes in name:string and language:string and outputs a sentence
